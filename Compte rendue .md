@@ -1,7 +1,8 @@
 # 📊 Prévision Crypto - Bot de Trading Bitcoin
 ## Prédire la valeur future et la volatilité d'une crypto-monnaie via Time Series
 
----
+---![Headshot](https://github.com/user-attachments/assets/02bead01-6918-4ba2-9c24-fbd7d63d6d27)
+
 
 ## 🎯 Contexte et Objectifs
 
